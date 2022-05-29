@@ -1,0 +1,25 @@
+/* Grid Styling */
+
+
+/* Card Styling */
+.card-item:hover{
+    padding: 0;
+    transition: all .3s ease-in-out;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+
+.buttons .btn a{
+    text-decoration: none;
+    color: #001f54;
+}
+
+
+@media screen and (max-width: 286px) {
+    .buttons{
+        flex-direction: column;
+    }
+}
