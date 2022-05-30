@@ -13,7 +13,7 @@ This is a general site built on React JS with the Material UI library for React 
 ## Summary
 The projects listed on the website are:
 
-* Birthday Reminder (useState)
+* [Birthday Reminder](https://github.com/cornelber/react-birthday-reminder) (useState)
 
 
 ## Installation
