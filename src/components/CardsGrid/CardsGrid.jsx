@@ -106,7 +106,10 @@ export default function CardsGrid() {
                                                     size="medium"
                                                     className="btn btn-demo"
                                                 >
-                                                    <a href={demoLive}>
+                                                    <a
+                                                        href={demoLive}
+                                                        target="_blank"
+                                                    >
                                                         View Demo Live
                                                     </a>
                                                 </Button>
@@ -114,7 +117,10 @@ export default function CardsGrid() {
                                                     size="medium"
                                                     className="btn btn-code"
                                                 >
-                                                    <a href={codeLive}>
+                                                    <a
+                                                        href={codeLive}
+                                                        target="_blank"
+                                                    >
                                                         View Code
                                                     </a>
                                                 </Button>
