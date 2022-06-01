@@ -22,7 +22,7 @@ Before starting, you need to have [Git](https://git-scm.com) and [Node](https://
 ## Starting ##
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/react-practice-projects
+$ git clone https://github.com/cornelber/react-practice-projects
 
 # Access
 $ cd react-practice-projects

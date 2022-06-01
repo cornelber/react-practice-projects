@@ -1,0 +1,10 @@
+.cardsContainer {
+	margin-top: 0 !important;
+	.particularCardContainer {
+		transition: all 0.3s ease;
+	}
+	.particularCardContainer:hover {
+		padding: 0;
+		transition: all 0.3s ease;
+	}
+}

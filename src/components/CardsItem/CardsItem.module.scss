@@ -1,0 +1,10 @@
+.buttons {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	.btnCode,
+	.btnDemo {
+		text-decoration: none;
+		color: #001f54;
+	}
+}
