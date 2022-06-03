@@ -22,7 +22,11 @@ export default function CardsItem(props) {
 				<Typography gutterBottom variant='h5' component='div'>
 					{projectTitle}
 				</Typography>
-				<Typography variant='body2' color='text.secondary'>
+				<Typography
+					height={'70px'}
+					variant='body2'
+					color='text.secondary'
+				>
 					{projectDesc}
 				</Typography>
 			</CardContent>

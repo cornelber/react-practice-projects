@@ -7,4 +7,13 @@ export default [
 		demoLive: 'https://bc-react-birthday-reminder.netlify.app/',
 		codeLive: 'https://github.com/cornelber/react-birthday-reminder',
 	},
+	{
+		id: 2,
+		projectTitle: 'Tours List',
+		projectDesc:
+			'Using next hooks: useState and useEffect. Additional, Conditional Rendering',
+		imageName: 'toursList.png',
+		demoLive: 'https://bc-project-tours.netlify.app/',
+		codeLive: 'https://github.com/cornelber/project-tours',
+	},
 ]
