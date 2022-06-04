@@ -16,4 +16,13 @@ export default [
 		demoLive: 'https://bc-project-tours.netlify.app/',
 		codeLive: 'https://github.com/cornelber/project-tours',
 	},
+	{
+		id: 3,
+		projectTitle: 'Form',
+		projectDesc:
+			'Using useState, useEffect, Conditional Rendering and Bootstrap React',
+		imageName: 'formProject.png',
+		demoLive: 'https://bc-project-form.netlify.app/',
+		codeLive: 'https://github.com/cornelber/project-form',
+	},
 ]
