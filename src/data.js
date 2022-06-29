@@ -25,4 +25,13 @@ export default [
 		demoLive: 'https://bc-project-form.netlify.app/',
 		codeLive: 'https://github.com/cornelber/project-form',
 	},
+	{
+		id: 4,
+		projectTitle: 'ITSchool News',
+		projectDesc:
+			'Using useState, useEffect, useParams, useContext, useNavigate, useFetch (custom hook)',
+		imageName: 'itschoolnews.png',
+		demoLive: 'https://bcitschoolnews.netlify.app/',
+		codeLive: 'https://github.com/cornelber/itschool-news-template',
+	},
 ]
